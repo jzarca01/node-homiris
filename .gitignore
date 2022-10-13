@@ -1,0 +1,4 @@
+.vscode/
+**/*.DSStore
+node_modules/
+test.js
